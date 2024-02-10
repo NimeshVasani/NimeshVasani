@@ -108,7 +108,6 @@
  </p>
 </div>
 <div style="width: 48%;">
-  ![AnimatedGIF](https://github.com/NimeshVasani/manage_my_store/blob/d04862cdf80d09aeb1b29c20e004838f71d8b1b5/dummy/coder_github.gif)
 <img src="https://github.com/NimeshVasani/manage_my_store/blob/d04862cdf80d09aeb1b29c20e004838f71d8b1b5/dummy/coder_github.gif" width="400" alt="Image 1">
 
 </div>
