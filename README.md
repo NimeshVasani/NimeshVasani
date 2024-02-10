@@ -1,7 +1,7 @@
 <h1 align="start">Welcome to Nimesh Vasani's profile! 👋🏻 </h1>
 <h3 align="start">A passionate Mobile Application Developer based in Toronto Canada.</h3>
 
-
+<h1></h1>
 
 - 🔭 I’m currently working on [Grocery Store Flutter Project](https://github.com/NimeshVasani/manage_my_store)
 
