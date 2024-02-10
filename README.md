@@ -1,3 +1,4 @@
-## Welcome to Nimesh Vasani's profile! 👋🏻 ![https://iconduck.com/icons/13114/linkedin-original]
+## Welcome to Nimesh Vasani's profile! 👋🏻  [![LinkedIn](https://www.linkedin.com/in/nimesh-vasani-99b642154/)
 
+### Glad to see you here!
 
