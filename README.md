@@ -26,6 +26,8 @@
 </p>
 
 <h3 align="left">Tools and Teechnology:</h3>
+<div style="display: flex; justify-content: space-between;">
+
 <div style="width: 48%;">
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
