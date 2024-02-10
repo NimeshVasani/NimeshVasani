@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Grocery Store Flutter Project](https://github.com/NimeshVasani/manage_my_store)
 
-- 🌱 I’m currently learning **Ar core and ML Kit with Android**
+- 🌱 I’m currently learning [Ar core and ML Kit with Android](https://developers.google.com/ar/develop/java/quickstart)
 
 - 👯 I’m looking to collaborate on [Grocery Store Admin Panel](https://github.com/NimeshVasani/manage_my_store/tree/master/lib/web)
 
