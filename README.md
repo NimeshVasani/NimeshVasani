@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Programmers don't need a GF !**
 
-<table>
+<table border = 0>
   <tr>
     <td>
 <h3 align="left">Connect with me:</h3>
