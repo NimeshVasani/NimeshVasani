@@ -27,7 +27,6 @@
     float: left;
     width: 50%;
     }
-
     .row:after {
     content: "";
     display: table;
