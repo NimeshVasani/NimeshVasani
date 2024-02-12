@@ -16,7 +16,9 @@
 - 📫 How to reach me **vasaninimesh0@gmail.com**
 
 - ⚡ Fun fact **Programmers don't need a GF !**
- <style>
+<html>
+ <head>
+    <style>
     {
         box-sizing: border-box;
     }
@@ -32,7 +34,7 @@
     clear: both;
     }
     </style>
-
+ </head>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -130,3 +132,5 @@
 </div>
 
 </div>
+</html>
+
