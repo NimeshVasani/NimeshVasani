@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **Programmers don't need a GF !**
 
+
+<table>
+  <tr>
+    <td>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nimesh-vasani-99b642154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimesh-vasani-99b642154/" height="30" width="40" /></a>
@@ -106,6 +110,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </a>
  </p>
+     </td>
+   </tr>
+
+ </table>
+
 </div>
 <div style="width: 500;">
 <img src="https://github.com/NimeshVasani/manage_my_store/blob/d04862cdf80d09aeb1b29c20e004838f71d8b1b5/dummy/coder_github.gif" width="400" alt="Image 1">
