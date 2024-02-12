@@ -18,9 +18,7 @@
 - ⚡ Fun fact **Programmers don't need a GF !**
 
 
-<table>
-  <tr>
-    <td>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nimesh-vasani-99b642154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimesh-vasani-99b642154/" height="30" width="40" /></a>
@@ -28,9 +26,9 @@
 <a href="https://instagram.com/mr_vasani_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_vasani_official" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vasaninimesh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vasaninimesh0" height="30" width="40" /></a>
 </p>
-<div style="display: flex; justify-content: space-between;">
+<div class="row">
 
-<div style="width: 500;">
+<div class="column">
 <h3 align="left">Tools and Teechnology:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -110,18 +108,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </a>
  </p>
-     </td>
-   </tr>
-<tr>
-  <td>
-  <div style="width: 500;">
+
+  <div class="column">
 <img src="https://github.com/NimeshVasani/manage_my_store/blob/d04862cdf80d09aeb1b29c20e004838f71d8b1b5/dummy/coder_github.gif" width="400" alt="Image 1">
-    </td>
-</tr>
- </table>
 
 </div>
 
-
-</div>
 </div>
