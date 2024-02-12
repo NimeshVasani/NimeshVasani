@@ -18,7 +18,7 @@
 - ⚡ Fun fact **Programmers don't need a GF !**
 </br>
 
-<table border = '0'>
+<table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
   <tr>
     <td>
 <h3 align="left">Connect with me:</h3>
