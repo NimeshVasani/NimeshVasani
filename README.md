@@ -16,7 +16,22 @@
 - 📫 How to reach me **vasaninimesh0@gmail.com**
 
 - ⚡ Fun fact **Programmers don't need a GF !**
+ <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
 
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
 
 
 <h3 align="left">Connect with me:</h3>
