@@ -3,7 +3,7 @@
 
 </br>
 
-- 🔭 I’m currently working on [Grocery Store Flutter Project](https://github.com/NimeshVasani/manage_my_store)
+- 🔭 I’m currently working on [Personal Ai Assistant](https://github.com/NimeshVasani/Personal-Ai-Assistant)
 
 - 🌱 I’m currently learning [Ar core and ML Kit with Android](https://developers.google.com/ar/develop/java/quickstart)
 
